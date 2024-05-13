@@ -1,0 +1,5 @@
+@config 'violet.js';
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;

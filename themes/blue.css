@@ -1,0 +1,5 @@
+@config 'blue.js';
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;

@@ -1,0 +1,5 @@
+@config 'red.js';
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
