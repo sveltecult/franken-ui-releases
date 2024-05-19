@@ -4,21 +4,21 @@ HTML-first, framework-agnostic, beautifully designed components that you can tru
 
 ## Installation
 
-Starting `v0.0.11`, you can now install Franken UI as a CDN, bringing frontend development back to what it should be 😜. Include the Franken UI CSS in your `<head></head>` tag, but **please only pick one style** and do not activate two styles at once.
+Include the Franken UI CSS in your `<head>` tag, but **please only pick one style** and do not activate two styles at once.
 
 ```html
-<link rel="stylesheet" href="https://unpkg.com/franken-ui-releases@0.0.11/dist/default.min.css" />
-<link rel="stylesheet" href="https://unpkg.com/franken-ui-releases@0.0.11/dist/slate.min.css" />
-<link rel="stylesheet" href="https://unpkg.com/franken-ui-releases@0.0.11/dist/stone.min.css" />
-<link rel="stylesheet" href="https://unpkg.com/franken-ui-releases@0.0.11/dist/gray.min.css" />
-<link rel="stylesheet" href="https://unpkg.com/franken-ui-releases@0.0.11/dist/neutral.min.css" />
-<link rel="stylesheet" href="https://unpkg.com/franken-ui-releases@0.0.11/dist/red.min.css" />
-<link rel="stylesheet" href="https://unpkg.com/franken-ui-releases@0.0.11/dist/rose.min.css" />
-<link rel="stylesheet" href="https://unpkg.com/franken-ui-releases@0.0.11/dist/orange.min.css" />
-<link rel="stylesheet" href="https://unpkg.com/franken-ui-releases@0.0.11/dist/green.min.css" />
-<link rel="stylesheet" href="https://unpkg.com/franken-ui-releases@0.0.11/dist/blue.min.css" />
-<link rel="stylesheet" href="https://unpkg.com/franken-ui-releases@0.0.11/dist/yellow.min.css" />
-<link rel="stylesheet" href="https://unpkg.com/franken-ui-releases@0.0.11/dist/violet.min.css" />
+<link rel="stylesheet" href="https://unpkg.com/franken-ui-releases@0.0.12/dist/default.min.css" />
+<link rel="stylesheet" href="https://unpkg.com/franken-ui-releases@0.0.12/dist/slate.min.css" />
+<link rel="stylesheet" href="https://unpkg.com/franken-ui-releases@0.0.12/dist/stone.min.css" />
+<link rel="stylesheet" href="https://unpkg.com/franken-ui-releases@0.0.12/dist/gray.min.css" />
+<link rel="stylesheet" href="https://unpkg.com/franken-ui-releases@0.0.12/dist/neutral.min.css" />
+<link rel="stylesheet" href="https://unpkg.com/franken-ui-releases@0.0.12/dist/red.min.css" />
+<link rel="stylesheet" href="https://unpkg.com/franken-ui-releases@0.0.12/dist/rose.min.css" />
+<link rel="stylesheet" href="https://unpkg.com/franken-ui-releases@0.0.12/dist/orange.min.css" />
+<link rel="stylesheet" href="https://unpkg.com/franken-ui-releases@0.0.12/dist/green.min.css" />
+<link rel="stylesheet" href="https://unpkg.com/franken-ui-releases@0.0.12/dist/blue.min.css" />
+<link rel="stylesheet" href="https://unpkg.com/franken-ui-releases@0.0.12/dist/yellow.min.css" />
+<link rel="stylesheet" href="https://unpkg.com/franken-ui-releases@0.0.12/dist/violet.min.css" />
 ```
 
 While we're at it, you can also include UIkit JavaScript:
@@ -34,21 +34,13 @@ You can also choose to use the `defer` attribute to delay script execution. Or, 
 
 Visit https://www.franken-ui.dev to view the documentation.
 
-**🚨 WARNING 🚨**
-
-The documentation is currently tailored for "franken-ui-as-a-tailwind-css-plugin". If you are not using Tailwind CSS, please be patient as I'm constantly updating the documentation. Copying and pasting directly may not work as expected.
-
 ### Is it down?
 
 Probably not, but you can always clone [the documentation](https://github.com/sveltecult/franken-ui-site) and run it locally.
 
-## Templates
-- [Franken UI - Template Astro](https://github.com/sveltecult/franken-ui-template-astro/)
-- [Franken UI - Template Laravel (Blade)](https://github.com/sveltecult/franken-ui-template-laravel/)
-
 ## Disclaimer
 
-I'm a completely independent developer and have no affiliation with Svelte, @shadcn, UIkit and YOOtheme, or any other entities. Follow [@sveltecult](https://mas.to/@sveltecult) on Mastodon for project updates.
+I'm a completely independent developer and have no affiliation with Svelte, @shadcn, UIkit and YOOtheme, or any other entities. Follow me on [Mastodon](https://mas.to/@sveltecult) or [X, formerly known as Twitter &#8482;](https://twitter.com/sveltecult) for updates.
 
 ## Support
 
