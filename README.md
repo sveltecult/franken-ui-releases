@@ -7,25 +7,25 @@ HTML-first, framework-agnostic, beautifully designed components that you can tru
 Include the Franken UI CSS in your `<head>` tag, but **please only pick one style** and do not activate two styles at once.
 
 ```html
-<link rel="stylesheet" href="https://unpkg.com/franken-ui-releases@0.0.12/dist/default.min.css" />
-<link rel="stylesheet" href="https://unpkg.com/franken-ui-releases@0.0.12/dist/slate.min.css" />
-<link rel="stylesheet" href="https://unpkg.com/franken-ui-releases@0.0.12/dist/stone.min.css" />
-<link rel="stylesheet" href="https://unpkg.com/franken-ui-releases@0.0.12/dist/gray.min.css" />
-<link rel="stylesheet" href="https://unpkg.com/franken-ui-releases@0.0.12/dist/neutral.min.css" />
-<link rel="stylesheet" href="https://unpkg.com/franken-ui-releases@0.0.12/dist/red.min.css" />
-<link rel="stylesheet" href="https://unpkg.com/franken-ui-releases@0.0.12/dist/rose.min.css" />
-<link rel="stylesheet" href="https://unpkg.com/franken-ui-releases@0.0.12/dist/orange.min.css" />
-<link rel="stylesheet" href="https://unpkg.com/franken-ui-releases@0.0.12/dist/green.min.css" />
-<link rel="stylesheet" href="https://unpkg.com/franken-ui-releases@0.0.12/dist/blue.min.css" />
-<link rel="stylesheet" href="https://unpkg.com/franken-ui-releases@0.0.12/dist/yellow.min.css" />
-<link rel="stylesheet" href="https://unpkg.com/franken-ui-releases@0.0.12/dist/violet.min.css" />
+<link rel="stylesheet" href="https://unpkg.com/franken-ui-releases@0.0.13/dist/default.min.css" />
+<link rel="stylesheet" href="https://unpkg.com/franken-ui-releases@0.0.13/dist/slate.min.css" />
+<link rel="stylesheet" href="https://unpkg.com/franken-ui-releases@0.0.13/dist/stone.min.css" />
+<link rel="stylesheet" href="https://unpkg.com/franken-ui-releases@0.0.13/dist/gray.min.css" />
+<link rel="stylesheet" href="https://unpkg.com/franken-ui-releases@0.0.13/dist/neutral.min.css" />
+<link rel="stylesheet" href="https://unpkg.com/franken-ui-releases@0.0.13/dist/red.min.css" />
+<link rel="stylesheet" href="https://unpkg.com/franken-ui-releases@0.0.13/dist/rose.min.css" />
+<link rel="stylesheet" href="https://unpkg.com/franken-ui-releases@0.0.13/dist/orange.min.css" />
+<link rel="stylesheet" href="https://unpkg.com/franken-ui-releases@0.0.13/dist/green.min.css" />
+<link rel="stylesheet" href="https://unpkg.com/franken-ui-releases@0.0.13/dist/blue.min.css" />
+<link rel="stylesheet" href="https://unpkg.com/franken-ui-releases@0.0.13/dist/yellow.min.css" />
+<link rel="stylesheet" href="https://unpkg.com/franken-ui-releases@0.0.13/dist/violet.min.css" />
 ```
 
 While we're at it, you can also include UIkit JavaScript:
 
 ```html
-<script src="https://cdn.jsdelivr.net/npm/uikit@3.20.8/dist/js/uikit.min.js"></script>
-<script src="https://cdn.jsdelivr.net/npm/uikit@3.20.8/dist/js/uikit-icons.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/uikit@3.21.5/dist/js/uikit.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/uikit@3.21.5/dist/js/uikit-icons.min.js"></script>
 ```
 
 You can also choose to use the `defer` attribute to delay script execution. Or, you can place the code before the end of your <body> tag.

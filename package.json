@@ -23,7 +23,7 @@
   },
   "homepage": "https://www.franken-ui.dev",
   "license": "MIT",
-  "version": "0.0.12",
+  "version": "0.0.13",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
@@ -34,7 +34,7 @@
   ],
   "devDependencies": {
     "autoprefixer": "^10.4.19",
-    "franken-ui": "^0.0.12",
+    "franken-ui": "^0.0.13",
     "postcss": "^8.4.38",
     "postcss-combine-duplicated-selectors": "^10.0.3",
     "postcss-sort-media-queries": "^5.2.0",
